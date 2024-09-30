@@ -1,0 +1,81 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "productCode": "PROD-0001",
+      "name": "Blackmores Omega Double High Strength Fish Oil",
+      "categoryId": "C001",
+      "dateOfAcquisition": "2024-08-20",
+      "price": 598000,
+      "quantity": 1000,
+      "description": "Bổ sung omega cho cơ thể, hỗ trợ cho tim, mắt và da.."
+    },
+    {
+      "id": 2,
+      "productCode": "PROD-0002",
+      "name": "Blackmores CoQ10 150mg",
+      "categoryId": "C001",
+      "dateOfAcquisition": "2024-07-15",
+      "price": 513000,
+      "quantity": 100,
+      "description": " Hỗ trợ sản xuất năng lượng tế bào và giúp duy trì chức năng khỏe mạnh bình thường của tim."
+    },
+    {
+      "id": 3,
+      "productCode": "PROD-0003",
+      "name": "Máy đo huyết áp bắp tay Microlife B3 Basic",
+      "categoryId": "C002",
+      "dateOfAcquisition": "2024-08-22",
+      "price": 1350000,
+      "quantity": 500,
+      "description": "Dùng để đo nhịp tim nhanh chóng và chính xác."
+    },
+    {
+      "id": 4,
+      "productCode": "PROD-0004",
+      "name": "Efferalgan",
+      "categoryId": "C003",
+      "dateOfAcquisition": "2024-08-10",
+      "price": 30000,
+      "quantity": 65,
+      "description": "Giúp người bệnh giảm đau hạ sốt"
+    },
+    {
+      "id": 5,
+      "productCode": "PROD-0005",
+      "name": "Nhiệt kế hồng ngoại Kachi JXB-315",
+      "categoryId": "C002",
+      "dateOfAcquisition": "2024-08-15",
+      "price": 768000,
+      "quantity": 20,
+      "description": "Dùng để đo nhiệt độ cơ thể."
+    },
+    {
+      "productCode": "PROD-0006",
+      "name": "Panadol cảm cúm",
+      "categoryId": "C003",
+      "dateOfAcquisition": "2024-01-01",
+      "price": 65000,
+      "quantity": 65,
+      "description": "điều trị đau đầu",
+      "id": 6
+    }
+  ],
+  "categories": [
+    {
+      "categoryId": "C001",
+      "name": "Thực phẩm chức năng",
+      "description": "Không phải thuốc điều trị, hỗ trợ tăng cường sức khỏe."
+    },
+    {
+      "categoryId": "C002",
+      "name": "Thiết bị y tế",
+      "description": "Các sản phẩm đo đạc."
+    },
+    {
+      "categoryId": "C003",
+      "name": "Dược phẩm",
+      "description": "Sản phẩm thuốc điều trị."
+    }
+  ]
+}
